@@ -60,16 +60,20 @@ Hệ thống được xây dựng nhằm:
 
 # Công nghệ sử dụng
 
-## Frontend
-- ReactJS
-- Tailwind CSS
+## Ngôn ngữ lập trình
+- C#
 
-## Backend
-- NodeJS
-- ExpressJS
+## Framework
+- ASP.NET Core MVC (.NET 9)
+
+## Frontend
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
 
 ## Database
-- MongoDB Atlas
+- SQL Server / MySQL
 
 ## Cloud Storage
 - Cloudinary
@@ -77,4 +81,5 @@ Hệ thống được xây dựng nhằm:
 ## AI Service
 - Gemini API / OpenAI API
 
----
+## Version Control
+- GitHub
