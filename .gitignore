@@ -1,28 +1,26 @@
-# dependencies
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Build results
+Debug/
+Release/
+
+# ASP.NET Core
+appsettings.Development.json
+
+# Node modules (if frontend added later)
 node_modules/
 
-# production
-dist/
-build/
-
-# environment variables
-.env
-
-# logs
-logs
-*.log
-npm-debug.log*
+# IDE
+.vscode/
+.idea/
 
 # OS files
 .DS_Store
 Thumbs.db
-
-# IDE files
-.vscode/
-.idea/
-
-# package lock optional
-package-lock.json
-
-# coverage
-coverage/
